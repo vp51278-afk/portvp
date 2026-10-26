@@ -1,113 +1,73 @@
 
-# ❤️ Vaishnavi Pandey | Developer Portfolio
+# Vaishnavi Pandey — Developer Portfolio
 
-Welcome to my personal portfolio! This website showcases my projects, technical skills, internship experience, and journey as an aspiring Full Stack Developer exploring Generative AI.
+A modern, responsive developer portfolio featuring a black and red theme, animated UI, projects, technical skills, internship experience, and contact information.
 
-## 🌐 Portfolio
+## About Me
 
-- **GitHub:** [vp51278-afk](https://github.com/vp51278-afk)
-- **LinkedIn:** [Vaishnavi Pandey](https://www.linkedin.com/in/vaishnavi-pandey-b8a712363/)
-- **Email:** [vp5127812@gmail.com](mailto:vp5127812@gmail.com)
+Hi, I'm Vaishnavi Pandey, an ECE (IoT) student at MMMUT, graduating in 2029.
 
-## 👩‍💻 About Me
+I'm interested in Full Stack Development and Generative AI, and I'm continuously improving my development and problem-solving skills.
 
-Hi, I'm **Vaishnavi Pandey**, an Electronics and Communication Engineering student specializing in IoT at **Madan Mohan Malaviya University of Technology (MMMUT), graduating in 2029**.
+## Tech Stack
 
-I'm interested in Full Stack Development, Generative AI, and problem-solving. I enjoy building interactive web applications and learning new technologies.
+- HTML5
+- CSS3
+- JavaScript
+- MERN Stack
+- REST API Integration
+- Generative AI and LLMs
+- Data Structures and Algorithms
 
-## 🛠️ Tech Stack & Skills
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Full Stack:** MERN Stack fundamentals
-- **AI:** Generative AI, LLM integration
-- **API Integration:** REST APIs
-- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA)
-- **Tools:** Git, GitHub, VS Code, Vercel
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. E-commerce Website
-
 A full-stack e-commerce web application.
 
-- **Live Demo:** https://demoshopapp-rosy.vercel.app/
-- **Source Code:** https://github.com/vp51278-afk/demoshopapp
+- Live Demo: https://demoshopapp-rosy.vercel.app/
+- GitHub: https://github.com/vp51278-afk/demoshopapp
 
-### 2. AI Expense Tracker
+### 2. Expense Tracker
+An expense management application built using MERN technologies and LLM integration.
 
-An expense tracking application built with MERN technologies and LLM integration.
-
-- **Live Demo:** https://syntecxhub-vajp-expense-tracker-ckp.vercel.app/
-- **Source Code:** https://github.com/vp51278-afk/Syntecxhub_VAJP-Expense_Tracker
+- Live Demo: https://syntecxhub-vajp-expense-tracker-ckp.vercel.app/
+- GitHub: https://github.com/vp51278-afk/Syntecxhub_VAJP-Expense_Tracker
 
 ### 3. Tourism Website
+A tourism website featuring map-related functionality and web technologies.
 
-A tourism website featuring map-related functionality and interactive web elements.
+- Live Demo: https://vp51278-afk.github.io/vp/
+- GitHub: https://github.com/vp51278-afk/vp
 
-- **Live Demo:** https://vp51278-afk.github.io/vp/
-- **Source Code:** https://github.com/vp51278-afk/vp
+### 4. Weather App
+A weather application demonstrating API integration.
 
-### 4. Weather Application
+- Live Demo: https://vp51278-afk.github.io/weather1-website/
+- GitHub: https://github.com/vp51278-afk/weather1-website
 
-A weather application demonstrating API integration and dynamic weather information.
-
-- **Live Demo:** https://vp51278-afk.github.io/weather1-website/
-- **Source Code:** https://github.com/vp51278-afk/weather1-website
-
-## 💼 Internship Experience
+## Internship
 
 **Web Development Intern — Syntecxhub**
 
-Worked on web development as part of my internship experience.
+## Connect With Me
 
-## ✨ Portfolio Features
+- GitHub: https://github.com/vp51278-afk
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-pandey-b8a712363/
+- Email: vp5127812@gmail.com
 
-- Dark theme with red and pink accents
-- Animated hero section and interactive elements
-- Responsive layout for desktop and mobile
-- Project showcase with demo and GitHub links
-- Skills and internship sections
-- Contact section with email, LinkedIn, and GitHub links
-- Contact form that opens an email application with a prepared message
+## Run Locally
 
-## 💻 Run Locally
+1. Download or clone the repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser, or use the Live Server extension.
 
-1. Clone this repository:
+This is a front-end portfolio, so Node.js installation is not required unless additional build tools are introduced.
 
-   ```bash
-   git clone https://github.com/vp51278-afk/portvp.git
-   ```
+## Deployment
 
-2. Open the project folder:
+This portfolio can be deployed using Vercel or GitHub Pages.
 
-   ```bash
-   cd portvp
-   ```
+## License
 
-3. Open `index.html` in your browser, or use the Live Server extension in Visual Studio Code.
+This project is intended to showcase my personal portfolio and development projects.
 
-No Node.js installation is required for this static HTML, CSS, and JavaScript portfolio.
-
-## 🚀 Deployment
-
-This portfolio can be deployed using [Vercel](https://vercel.com/) or GitHub Pages.
-
-For Vercel:
-1. Import the GitHub repository.
-2. Select **Other** as the framework preset if prompted.
-3. Leave the build command empty.
-4. Deploy the project.
-
-## 📬 Contact
-
-I'm open to connecting with developers, collaborating on projects, and exploring opportunities to learn and grow.
-
-- **Email:** vp5127812@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/vaishnavi-pandey-b8a712363/
-- **GitHub:** https://github.com/vp51278-afk
-
----
-
-⭐ If you like my work, feel free to explore my repositories and projects.
-
-**Made with ❤️ by Vaishnavi Pandey**
